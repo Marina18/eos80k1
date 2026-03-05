@@ -25,7 +25,7 @@ Output:
   - Score
   - Compound
   - Text
-Output Dimension: 1
+Output Dimension: 64
 Output Consistency: Fixed, Variable
 Interpretation: The output of this template model should be interpreted like 
   this.
